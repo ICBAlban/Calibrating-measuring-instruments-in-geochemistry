@@ -12,7 +12,7 @@ This program and the Python source code is not being kept up to date.
 
 ## Requirement
 
-This code is written in Python 3.12, and the module required for its operation is numpy version 1.26.
+This code is written in Python 3.12, and the module required for its operation is numpy version 1.26 and scipy 1.16.0.
 
 ## Use
 
