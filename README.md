@@ -4,7 +4,7 @@ This program is an application designed to perform a calibration or an adjusteme
 
 ## Content
 
-An executable version is available in the Software/dist/main.exe folder. Alternatively, the source code written in Python is available in the Python Code folder.
+The source code written in Python is available in the Python Code folder.
 
 ## Attention
 
