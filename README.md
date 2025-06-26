@@ -14,5 +14,9 @@ This program and the Python source code is not being kept up to date.
 
 This code is written in Python 3.12, and the module required for its operation is numpy version 1.26.
 
+## Use
+
+Press the Enter key to enter the data
+
 ## License
 The license for this program is Apache 2.0.
