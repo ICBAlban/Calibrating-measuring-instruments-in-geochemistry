@@ -1,0 +1,4 @@
+The Python source code is not being kept up to date. 
+This code is written in Python 3.12, and the module required for its operation is :
+- numpy version 1.26
+- scipy version 1.16.0
